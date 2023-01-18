@@ -1,4 +1,4 @@
-# Algorytm-eliminacji-Gaussa---Jordana
+# Algorytm_eliminacji_Gaussa-Jordana
 Repozytorium zawiera kod implementacji algorytmu eliminacji Gaussa Jordana.
 Pozostałe zaimplementowane funkcje wykorzystują powyższy algorytm.
 * funkcja rozwiązująca układ równań liniowych
